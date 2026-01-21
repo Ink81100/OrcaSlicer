@@ -38,16 +38,16 @@ msgid "The filament model is unknown. A random filament preset will be used."
 msgstr ""
 
 msgid "right"
-msgstr ""
+msgstr "droite"
 
 msgid "left"
-msgstr ""
+msgstr "gauche"
 
 msgid "right extruder"
-msgstr ""
+msgstr "extrudeur droit"
 
 msgid "left extruder"
-msgstr ""
+msgstr "extrudeur droit"
 
 msgid "extruder"
 msgstr ""
@@ -63,7 +63,7 @@ msgstr ""
 "veuillez prendre soin de le sécher avant utilisation."
 
 msgid "Damp PVA is flexible and may get stuck in extruder. Dry it before use."
-msgstr ""
+msgstr "Le PVA humide est flexible et peut rester coincé dans l'extrudeur. Sécher le avant utilisation"
 
 msgid ""
 "The rough surface of PLA Glow can accelerate wear on the AMS system, "
@@ -78,10 +78,10 @@ msgstr ""
 "coincer dans l’AMS, veuillez les utiliser avec prudence."
 
 msgid "PPS-CF is brittle and could break in bended PTFE tube above Toolhead."
-msgstr ""
+msgstr "PPS-CF est cassant et pourrait se briser dans un tube PTFE plier au dessus de l'extruder"
 
 msgid "PPA-CF is brittle and could break in bended PTFE tube above Toolhead."
-msgstr ""
+msgstr "PPA-CF est cassant et pourrait se briser dans un tube PTFE plier au dessus de l'extruder"
 
 #, c-format, boost-format
 msgid "%s is not supported by %s extruder."
@@ -91,7 +91,7 @@ msgid "Current AMS humidity"
 msgstr "Humidité actuelle de l’AMS"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Humidité"
 
 msgid "Temperature"
 msgstr "Température"
@@ -100,14 +100,14 @@ msgid "Left Time"
 msgstr ""
 
 msgid "Drying"
-msgstr ""
+msgstr "Séchage"
 
 msgid "Idle"
 msgstr "Inactif"
 
 #, c-format, boost-format
 msgid "%d ℃"
-msgstr ""
+msgstr "timelaps"
 
 msgid "Serial:"
 msgstr "N° de série:"
